@@ -1,0 +1,440 @@
+mai. 27, 2024 5:52:35 PM Console.ConsoleService main
+INFO: Programa iniciado.
+mai. 27, 2024 5:52:35 PM Console.ConsoleService main
+INFO: Mensagem de boas-vindas exibida.
+mai. 27, 2024 5:52:48 PM Console.ConsoleService main
+INFO: Nome da empresa: Felipe
+mai. 27, 2024 5:52:50 PM Console.ConsoleService main
+INFO: Senha recebida.
+mai. 27, 2024 5:52:50 PM Console.ConsoleService main
+INFO: Login bem-sucedido para o usuário: Felipe
+mai. 27, 2024 5:52:50 PM Console.ConsoleService main
+INFO: Informações do Sistema Operacional:
+Sistema Operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64
+
+mai. 27, 2024 5:52:56 PM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 1
+
+ Memória RAM info:
+ Memória RAM em uso: 11,2 GiB
+ Memória RAM Total: 15,7 GiB
+ Memória RAM Disponível: 4,5 GiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 226,1 GiB
+ Espaço Disponível: 102,9 GiB
+ Espaço Total: 238,5 GiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 8 days, 04:31:21
+
+ Processos com maior uso de CPU:
+ PID: 0
+Uso CPU: 413,8
+Uso memória: 0,0
+Bytes utilizados: 8192
+Memória virtual utilizada: 8192
+PID: 15644
+Uso CPU: 22,0
+Uso memória: 9,7
+Bytes utilizados: 1635950592
+Memória virtual utilizada: 1186934784
+PID: 25192
+Uso CPU: 10,4
+Uso memória: 0,0
+Bytes utilizados: 4526080
+Memória virtual utilizada: 633475072
+PID: 26904
+Uso CPU: 8,8
+Uso memória: 0,6
+Bytes utilizados: 94375936
+Memória virtual utilizada: 2344468480
+PID: 31832
+Uso CPU: 4,8
+Uso memória: 0,0
+Bytes utilizados: 1519616
+Memória virtual utilizada: 79908864
+
+
+mai. 27, 2024 5:52:57 PM Console.ConsoleService main
+INFO: Coleta de dados cancelada.
+mai. 27, 2024 5:58:05 PM Console.ConsoleService main
+INFO: Programa iniciado.
+mai. 27, 2024 5:58:06 PM Console.ConsoleService main
+INFO: Mensagem de boas-vindas exibida.
+mai. 27, 2024 5:58:09 PM Console.ConsoleService main
+INFO: Nome da empresa: Felipe
+mai. 27, 2024 5:58:11 PM Console.ConsoleService main
+INFO: Senha recebida.
+mai. 27, 2024 5:58:11 PM Console.ConsoleService main
+INFO: Login bem-sucedido para o usuário: Felipe
+mai. 27, 2024 5:58:11 PM Console.ConsoleService main
+INFO: Informações do Sistema Operacional:
+Sistema Operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64
+
+mai. 27, 2024 5:58:18 PM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 1
+
+ Memória RAM info:
+ Memória RAM em uso: 12,3 GiB
+ Memória RAM Total: 15,7 GiB
+ Memória RAM Disponível: 3,4 GiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 226,3 GiB
+ Espaço Disponível: 102,9 GiB
+ Espaço Total: 238,5 GiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 8 days, 04:36:44
+
+ Processos com maior uso de CPU:
+ PID: 0
+Uso CPU: 414,1
+Uso memória: 0,0
+Bytes utilizados: 8192
+Memória virtual utilizada: 8192
+PID: 15644
+Uso CPU: 19,3
+Uso memória: 10,2
+Bytes utilizados: 1716895744
+Memória virtual utilizada: 1214513152
+PID: 15108
+Uso CPU: 17,2
+Uso memória: 0,6
+Bytes utilizados: 95969280
+Memória virtual utilizada: 2345406464
+PID: 16016
+Uso CPU: 13,7
+Uso memória: 0,7
+Bytes utilizados: 109948928
+Memória virtual utilizada: 1348919296
+PID: 38332
+Uso CPU: 12,7
+Uso memória: 0,8
+Bytes utilizados: 128778240
+Memória virtual utilizada: 1356259328
+
+
+mai. 27, 2024 5:58:19 PM Console.ConsoleService main
+INFO: Coleta de dados cancelada.
+mai. 27, 2024 5:59:40 PM Console.ConsoleService main
+INFO: Programa iniciado.
+mai. 27, 2024 5:59:40 PM Console.ConsoleService main
+INFO: Mensagem de boas-vindas exibida.
+mai. 27, 2024 5:59:43 PM Console.ConsoleService main
+INFO: Nome da empresa: Felipe
+mai. 27, 2024 5:59:44 PM Console.ConsoleService main
+INFO: Senha recebida.
+mai. 27, 2024 5:59:45 PM Console.ConsoleService main
+INFO: Login bem-sucedido para o usuário: Felipe
+mai. 27, 2024 5:59:45 PM Console.ConsoleService main
+INFO: Informações do Sistema Operacional:
+Sistema Operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64
+
+mai. 27, 2024 5:59:49 PM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 1
+
+ Memória RAM info:
+ Memória RAM em uso: 12,2 GiB
+ Memória RAM Total: 15,7 GiB
+ Memória RAM Disponível: 3,5 GiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 226,3 GiB
+ Espaço Disponível: 102,9 GiB
+ Espaço Total: 238,5 GiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 8 days, 04:38:14
+
+ Processos com maior uso de CPU:
+ PID: 0
+Uso CPU: 414,2
+Uso memória: 0,0
+Bytes utilizados: 8192
+Memória virtual utilizada: 8192
+PID: 33788
+Uso CPU: 54,4
+Uso memória: 0,8
+Bytes utilizados: 137093120
+Memória virtual utilizada: 1347870720
+PID: 42668
+Uso CPU: 22,0
+Uso memória: 0,6
+Bytes utilizados: 98365440
+Memória virtual utilizada: 2345508864
+PID: 15644
+Uso CPU: 18,1
+Uso memória: 10,2
+Bytes utilizados: 1716502528
+Memória virtual utilizada: 1210646528
+PID: 37620
+Uso CPU: 9,3
+Uso memória: 0,7
+Bytes utilizados: 113664000
+Memória virtual utilizada: 4000878592
+
+
+mai. 27, 2024 5:59:53 PM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 2
+
+ Memória RAM info:
+ Memória RAM em uso: 12,2 GiB
+ Memória RAM Total: 15,7 GiB
+ Memória RAM Disponível: 3,5 GiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 226,3 GiB
+ Espaço Disponível: 102,9 GiB
+ Espaço Total: 238,5 GiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 8 days, 04:38:18
+
+ Processos com maior uso de CPU:
+ PID: 0
+Uso CPU: 414,2
+Uso memória: 0,0
+Bytes utilizados: 8192
+Memória virtual utilizada: 8192
+PID: 33788
+Uso CPU: 32,5
+Uso memória: 0,8
+Bytes utilizados: 134356992
+Memória virtual utilizada: 1347870720
+PID: 42668
+Uso CPU: 30,9
+Uso memória: 0,8
+Bytes utilizados: 130093056
+Memória virtual utilizada: 2368442368
+PID: 15644
+Uso CPU: 18,0
+Uso memória: 10,2
+Bytes utilizados: 1716527104
+Memória virtual utilizada: 1210646528
+PID: 37620
+Uso CPU: 9,2
+Uso memória: 0,6
+Bytes utilizados: 107929600
+Memória virtual utilizada: 4000878592
+
+
+mai. 27, 2024 5:59:58 PM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 3
+
+ Memória RAM info:
+ Memória RAM em uso: 12,2 GiB
+ Memória RAM Total: 15,7 GiB
+ Memória RAM Disponível: 3,4 GiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 226,3 GiB
+ Espaço Disponível: 102,9 GiB
+ Espaço Total: 238,5 GiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 8 days, 04:38:23
+
+ Processos com maior uso de CPU:
+ PID: 0
+Uso CPU: 414,2
+Uso memória: 0,0
+Bytes utilizados: 8192
+Memória virtual utilizada: 8192
+PID: 42668
+Uso CPU: 26,3
+Uso memória: 0,9
+Bytes utilizados: 150552576
+Memória virtual utilizada: 2367393792
+PID: 33788
+Uso CPU: 22,7
+Uso memória: 0,8
+Bytes utilizados: 134356992
+Memória virtual utilizada: 1347870720
+PID: 15644
+Uso CPU: 18,0
+Uso memória: 10,2
+Bytes utilizados: 1717891072
+Memória virtual utilizada: 1210318848
+PID: 37620
+Uso CPU: 9,1
+Uso memória: 0,6
+Bytes utilizados: 106921984
+Memória virtual utilizada: 4000878592
+
+
+mai. 27, 2024 6:00:03 PM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 4
+
+ Memória RAM info:
+ Memória RAM em uso: 12,3 GiB
+ Memória RAM Total: 15,7 GiB
+ Memória RAM Disponível: 3,4 GiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 226,3 GiB
+ Espaço Disponível: 102,9 GiB
+ Espaço Total: 238,5 GiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 8 days, 04:38:28
+
+ Processos com maior uso de CPU:
+ PID: 0
+Uso CPU: 414,2
+Uso memória: 0,0
+Bytes utilizados: 8192
+Memória virtual utilizada: 8192
+PID: 42668
+Uso CPU: 23,6
+Uso memória: 1,1
+Bytes utilizados: 193048576
+Memória virtual utilizada: 2383974400
+PID: 15644
+Uso CPU: 17,9
+Uso memória: 10,2
+Bytes utilizados: 1717899264
+Memória virtual utilizada: 1210318848
+PID: 33788
+Uso CPU: 17,6
+Uso memória: 0,8
+Bytes utilizados: 134356992
+Memória virtual utilizada: 1347870720
+PID: 37620
+Uso CPU: 9,0
+Uso memória: 0,6
+Bytes utilizados: 106921984
+Memória virtual utilizada: 4000878592
+
+
+mai. 27, 2024 6:00:04 PM Console.ConsoleService main
+INFO: Coleta de dados cancelada.
+mai. 27, 2024 6:17:13 PM Console.ConsoleService main
+INFO: Programa iniciado.
+mai. 27, 2024 6:17:13 PM Console.ConsoleService main
+INFO: Mensagem de boas-vindas exibida.
+mai. 27, 2024 6:17:18 PM Console.ConsoleService main
+INFO: Nome da empresa: Felipe
+mai. 27, 2024 6:17:20 PM Console.ConsoleService main
+INFO: Senha recebida.
+mai. 27, 2024 6:17:20 PM Console.ConsoleService main
+INFO: Login bem-sucedido para o usuário: Felipe
+mai. 27, 2024 6:17:20 PM Console.ConsoleService main
+INFO: Informações do Sistema Operacional:
+Sistema Operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64
+
+mai. 27, 2024 6:17:39 PM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 1
+
+ Memória RAM info:
+ Memória RAM em uso: 12,7 GiB
+ Memória RAM Total: 15,7 GiB
+ Memória RAM Disponível: 3,0 GiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 226,6 GiB
+ Espaço Disponível: 102,9 GiB
+ Espaço Total: 238,5 GiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 8 days, 04:56:05
+
+ Processos com maior uso de CPU:
+ PID: 0
+Uso CPU: 415,3
+Uso memória: 0,0
+Bytes utilizados: 8192
+Memória virtual utilizada: 8192
+PID: 41616
+Uso CPU: 33,6
+Uso memória: 0,8
+Bytes utilizados: 137838592
+Memória virtual utilizada: 1339482112
+PID: 34192
+Uso CPU: 11,9
+Uso memória: 0,7
+Bytes utilizados: 109916160
+Memória virtual utilizada: 1347870720
+PID: 15644
+Uso CPU: 11,3
+Uso memória: 10,3
+Bytes utilizados: 1742536704
+Memória virtual utilizada: 1224806400
+PID: 39636
+Uso CPU: 8,4
+Uso memória: 0,6
+Bytes utilizados: 95039488
+Memória virtual utilizada: 2327912448
+
+
+mai. 27, 2024 6:17:41 PM Console.ConsoleService main
+INFO: Coleta de dados cancelada.
+mai. 27, 2024 6:17:41 PM Console.ConsoleService$1 run
+INFO:  ----------------------------------------
+ Coletando Dados.. 2
+
+ Memória RAM info:
+ Memória RAM em uso: 12,7 GiB
+ Memória RAM Total: 15,7 GiB
+ Memória RAM Disponível: 2,9 GiB
+
+ Disco Rígido info:
+ Velocidade de Leitura: 226,6 GiB
+ Espaço Disponível: 102,9 GiB
+ Espaço Total: 238,5 GiB
+
+ Processador info:
+ Frequência: 2.496GHz
+ Tempo de Atividade: 8 days, 04:56:06
+
+ Processos com maior uso de CPU:
+ PID: 0
+Uso CPU: 415,3
+Uso memória: 0,0
+Bytes utilizados: 8192
+Memória virtual utilizada: 8192
+PID: 41616
+Uso CPU: 45,6
+Uso memória: 1,9
+Bytes utilizados: 326877184
+Memória virtual utilizada: 1347870720
+PID: 39636
+Uso CPU: 12,8
+Uso memória: 0,8
+Bytes utilizados: 126758912
+Memória virtual utilizada: 2367344640
+PID: 15644
+Uso CPU: 11,3
+Uso memória: 10,3
+Bytes utilizados: 1742544896
+Memória virtual utilizada: 1224806400
+PID: 34192
+Uso CPU: 10,7
+Uso memória: 0,7
+Bytes utilizados: 109916160
+Memória virtual utilizada: 1347870720
+
+

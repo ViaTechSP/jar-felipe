@@ -1,0 +1,30 @@
+{
+Sistema Operacional: Windows
+Arquitetura: 64
+hostname: NT-FMAGALHAES
+Data: 29/05/2024 14:11:21.738
+Mensagem: Login realizado com sucesso
+logLevel: INFO
+statusCode: 200
+}
+
+{
+Sistema Operacional: Windows
+Arquitetura: 64
+hostname: NT-FMAGALHAES
+Data: 29/05/2024 14:12:33.267
+Mensagem: Login realizado com sucesso
+logLevel: INFO
+statusCode: 200
+}
+
+{
+Sistema Operacional: Windows
+Arquitetura: 64
+hostname: NT-FMAGALHAES
+Data: 29/05/2024 14:12:46.464
+Mensagem: Erro ao realizar login: usuário ou senha incorretos
+logLevel: ERROR
+statusCode: 401
+}
+
